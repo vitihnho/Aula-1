@@ -1,6 +1,8 @@
 create database fib2022;
 use fib2022;
+
 drop database fib2022;
+
 create table agenda(
 nome varchar(40) not null,
 telefone varchar(40) not null,
